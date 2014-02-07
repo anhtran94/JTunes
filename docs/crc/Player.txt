@@ -1,0 +1,5 @@
+Class name: Player
+Responsibilities:
+ * control sound playback
+Collaborators:
+ * Song - contains sound source

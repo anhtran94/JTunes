@@ -1,0 +1,44 @@
+PRODUCT BACKLOG FOR JTUNES PROGRAM
+==================================
+
+Effort Required
+---------------
+Small:  S
+Medium: M
+Large:  L
+*Item ID is in order of business priority
+
+ITEM ID     USER STORY                          ESTIMATED EFFORT
+
+1           see a list of songs in                      S
+            music library
+
+2           pick a song from music                      S
+            library to listen to
+
+3           see details about each of                   M
+            the songs on jTunes Cloud
+
+4           download songs from the                     L
+            jTunes Cloud
+
+5           see details about each of                   S
+            the songs in music library
+
+6           listen to songs from playlists              M
+
+7           delete playlists                            S
+
+8           work with server XML response               M
+
+9           having a user guide                         L
+
+10          play random songs                           S
+
+11          play songs by a given artist                M
+
+12          download all the songs previously           L
+            downloaded from JTunes Cloud onto
+            a new computer
+
+13          interface for music program                 L

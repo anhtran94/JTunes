@@ -1,0 +1,44 @@
+SPRINT3 BACKLOG
+=======================
+ESTIMATED EFFORTS:
+S- Small
+M- Medium
+L- Large
+
+
+ID- USER STORY : (6) listen to songs from playlist AND
+                 (7) delete playlists
+TASKS:          Re-design and re-code playlist.java and its relevant method(s) in JTunes.java, using some of the original code of Jianhao (L)                     
+ASSIGNED TO:    Anh & Carlos
+STATUS:         Done
+COMMENTS:       N/A
+
+ID- USER STORY : (9) having a user guide 
+TASK:           Creating a complete user guide (one .pdf file and one back-up .txt file) (L)
+ASSIGNED TO:    Anh & Carlos
+STATUS:         Done
+COMMENTS:       This has to be done at the same time with user interface design 
+
+ID- USER STORY : (13) interface for music program
+TASKS:          Implementing GUI (L)
+ASSIGNED TO:    Mehmet
+STATUS:        	Team decided not to do GUI anymore
+COMMENTS:       Will see how things go on Wednesday (March 13th) to decide whether to go on with GUI or keep text-based interface
+
+ID- USER STORY : (8) make program functional with new server settings
+TASKS:          XML for the login system (M)
+ASSIGNED TO:    Sunny & Kim
+STATUS:         Done
+COMMENTS:       
+
+ID- USER STORY : (12) download all the songs previously downloaded from JTunes Cloud onto a new computer
+TASKS:          Write a sync method
+ASSIGNED TO:    Sunny & Kim
+STATUS:         Done
+COMMENTS:       N/A
+
+ID- USER STORY : (11) play songs by a given artist
+TASKS:          -Scan for artists, Search_Manager
+ASSIGNED TO:    Jianhao
+STATUS:         Done
+COMMENTS:       N/A

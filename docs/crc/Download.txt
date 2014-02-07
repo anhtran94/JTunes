@@ -1,0 +1,8 @@
+Class name: Download
+Responsibilities:
+ * Add songs located in local directories
+ * Download songs from JTunes Cloud web service
+Collaborators:
+ * PlaylistManager - adding songs into playlist
+ * Song - create song object to be added into playlist
+ * User - user credential for server authentication

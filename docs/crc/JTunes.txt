@@ -1,0 +1,15 @@
+Class name: JTunes
+
+Responsibilities:
+ * display available songs
+ * select song
+ * play/pause selected song
+ * quit program
+ ** manage playlist
+
+Collaborators:
+ * MenuItem - invoked by menu
+ * Song - song data
+ * Player - process song data
+ * User - premission for certain options
+ ** PlaylistManager - manipulate playlists

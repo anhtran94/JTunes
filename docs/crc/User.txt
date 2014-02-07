@@ -1,0 +1,6 @@
+Class name: User
+Responsibilities:
+ * stores user credential
+Collaborators:
+ * JTunes - logged in condition
+ * Download - user credential for server authentication

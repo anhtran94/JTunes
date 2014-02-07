@@ -1,0 +1,8 @@
+Class name: Playlist
+Responsibilities:
+ * storage unit - store informaion such as playlistTitle, and songs in playlist
+ * sort the songs stored
+ * search the songs stored
+ * shuffle the songs stored
+Collaborators:
+ * Song - playlist contain songs

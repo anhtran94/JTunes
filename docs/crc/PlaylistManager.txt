@@ -1,0 +1,11 @@
+Class name: PlaylistManager
+Responsibilities:
+ * create playlist
+ * add song into playlist
+ * delete song from playlist
+ * name the playlist
+ * delete the playlist
+ * sort/search playlists and songs
+Collaborators:
+ * Playlist - medium to add/remove songs
+ * Songs - need song to manipulate playlist

@@ -1,0 +1,2 @@
+1, .\data\song\RED ZONE.mid, RED ZONE, Tatsh & NAOKI
+?, .\data\song\paranoia.mid, paranoia, 

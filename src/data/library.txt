@@ -1,0 +1,15 @@
+1, ./data/song/RED ZONE.mid, RED ZONE, Tatsh & NAOKI
+./data/song/paranoia.mid  
+3.1415926, ./data/song/howareyou.mid, Hello/How are you
+rememberToNotPutNewLineAtEndOfFile, ./data/song/ukraine.mid
+thisShouldBeAHash, ./data/song/letitsno.mid, Let it snow
+someRandomIdentifier, ./data/song/12days.mid
+526e0471608e16b1aed74c378c4b2664, ./data/song/526e0471608e16b1aed74c378c4b2664.mid, White Flag, Dido
+49978529cea466e61e5e73e5dd61f613, ./data/song/49978529cea466e61e5e73e5dd61f613.mid, Name of the Game, ABBA
+dc8671d1912f49c98d38f89404c93da1, ./data/song/dc8671d1912f49c98d38f89404c93da1.mid, Chasing Pavements, Adele
+c2e0ac2296df4afb1c4bf1fb0b476823, ./data/song/c2e0ac2296df4afb1c4bf1fb0b476823.mid, 1985, Bowling For Soup
+84c91c5acae0a9484f38efdd61977bf3, ./data/song/84c91c5acae0a9484f38efdd61977bf3.mid, A Thousand Miles, Vanessa Carlton
+3ad5a5d9569b4ec1d2d3742b14f8540b, ./data/song/3ad5a5d9569b4ec1d2d3742b14f8540b.mid, The Scientist, Coldplay
+63e10f8f3d72b7c14aeba11025695685, ./data/song/63e10f8f3d72b7c14aeba11025695685.mid, This Is It, Michael Jackson
+42cfaa3999606ddc8640923077a2b511, ./data/song/42cfaa3999606ddc8640923077a2b511.mid, Mona Lisa, Nat King Cole
+4ab70092a1e2d1cf4681afcaa9cb100d, ./data/song/4ab70092a1e2d1cf4681afcaa9cb100d.mid, Whole Again, Atomic Kitten

@@ -1,0 +1,11 @@
+Class name: MenuItem
+
+Responsibilities:
+ * menu function in JTunes main class
+
+Collaborators:
+ * JTunes - contains the menu which invoke this class
+ * Song - song data
+ * Player - process song data
+ * User - premission for certain options
+ ** PlaylistManager - manipulate playlists

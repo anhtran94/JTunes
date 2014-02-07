@@ -1,0 +1,5 @@
+Class name: Song
+Responsibilities:
+ * storage unit - store informaion of a song such as title, artist, and duration
+Collaborators:
+ * None
